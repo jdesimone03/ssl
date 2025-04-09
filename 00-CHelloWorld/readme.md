@@ -1,5 +1,5 @@
 # TP0: Hello World
-**Compilador seleccionado:** GCC 9.2.0
+**Compilador seleccionado:** GCC 13.3.0
 
 Output de hello.c
 ```
